@@ -122,7 +122,5 @@ public class Exe4 {
 			break;
 		}
 		ler.close();
-		
 	}
-
 }
